@@ -1,0 +1,26 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="5.71387" width="40" height="28.5714" rx="4" fill="white"/>
+<mask id="mask0_76_645" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="5" width="40" height="30">
+<rect y="5.71387" width="40" height="28.5714" rx="4" fill="white"/>
+</mask>
+<g mask="url(#mask0_76_645)">
+<rect y="5.71387" width="40" height="28.5714" fill="#E42235"/>
+<rect x="3.80957" y="9.52344" width="32.381" height="20.9524" fill="#079B77"/>
+</g>
+<mask id="mask1_76_645" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="3" y="9" width="34" height="22">
+<rect x="3.80957" y="9.52344" width="32.381" height="20.9524" fill="white"/>
+</mask>
+<g mask="url(#mask1_76_645)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.27575 20.1882C6.81504 21.0513 7.58929 21.621 8.31043 21.7672C8.70745 21.8476 7.98056 20.0269 8.29731 19.829C8.56759 19.6601 9.86796 21.1742 9.98183 20.8583C10.2438 20.1315 10.0893 19.1023 9.50641 18.1695C8.67022 16.8313 8.63757 17.7145 6.37702 16.7559C6.61338 18.1268 5.43956 18.85 6.27575 20.1882Z" fill="#FFD938"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.80957 9.52344H36.1905L20 19.9996L3.80957 9.52344Z" fill="#FFD93B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.80957 30.4762H36.1905L20 20L3.80957 30.4762Z" fill="#FFD93B"/>
+<ellipse cx="20.0002" cy="20.0002" rx="4.7619" ry="4.7619" fill="url(#paint0_linear_76_645)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 21.4691L17.7608 23.0819L18.6028 20.4539L16.377 18.8227L19.1365 18.8114L20 16.1904L20.8636 18.8114L23.6231 18.8227L21.3973 20.4539L22.2392 23.0819L20 21.4691Z" fill="#FFD938"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_76_645" x1="15.2383" y1="15.2383" x2="15.2383" y2="24.7621" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E21C30"/>
+<stop offset="1" stop-color="#CE1225"/>
+</linearGradient>
+</defs>
+</svg>

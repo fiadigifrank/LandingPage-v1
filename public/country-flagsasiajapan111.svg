@@ -1,0 +1,12 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="5.71387" width="40" height="28.5714" rx="4" fill="white"/>
+<mask id="mask0_76_1201" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="5" width="40" height="30">
+<rect y="5.71387" width="40" height="28.5714" rx="4" fill="white"/>
+</mask>
+<g mask="url(#mask0_76_1201)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 34.2855H40V24.7617H0V34.2855Z" fill="#F13D4F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 24.7621H40V15.2383H0V24.7621Z" fill="#4AC94B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 15.2377H40V5.71387H0V15.2377Z" fill="#FFD043"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.0001 23.343L14.962 26.9346L16.8209 21.0331L11.8482 17.3514L18.0353 17.2957L20.0001 11.4287L21.965 17.2957L28.1521 17.3514L23.1794 21.0331L25.0383 26.9346L20.0001 23.343Z" fill="white"/>
+</g>
+</svg>

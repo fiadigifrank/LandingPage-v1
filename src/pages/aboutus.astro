@@ -1,0 +1,40 @@
+---
+// Component Imports
+import Navi_Hero_Customers from '../components/Navi+Hero(Customers).jsx';
+import Navi_Hero_product from '../components/Navi+Hero(product).jsx';
+import Navi_Hero_Company from '../components/Navi+Hero(Company).jsx';
+import Sub_Menu_radiography from '../components/Sub Menu(radiography).jsx';
+import Pricing from '../components/Pricing.jsx';
+import Aboutus from '../components/About us - Main.jsx';
+
+const someProps = {
+	count: 0,
+};
+
+// Full Astro Component Syntax:
+// https://docs.astro.build/basics/astro-components/
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<style>
+			html,
+			body {
+				font-family: system-ui;
+				margin: 0;
+			}
+			body {
+				padding: 0rem;
+			}
+		</style>
+	</head>
+	<body>
+		<main>
+			<Aboutus>
+		</main>
+	</body>
+</html>
